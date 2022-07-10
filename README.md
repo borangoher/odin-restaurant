@@ -1,2 +1,2 @@
 # odin-restaurant
-TOP restaurant project
+TOP restaurant page project
